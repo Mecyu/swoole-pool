@@ -1,0 +1,26 @@
+{
+    "name": "myron/swoole-pool",
+    "description": "swoole pool frame",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mecyu",
+            "email": "649903137@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mecyu\\SwoolePool\\": "src/"
+        },
+        "files": [
+            "src\\Common\\functions.php"
+        ]
+    },
+    "require": {},
+    "require-dev": {
+        "php": "^7.2",
+        "swoole": "^4.4",
+        "phpunit/phpunit": "^7.0"
+    }
+}
