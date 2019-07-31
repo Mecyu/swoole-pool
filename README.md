@@ -4,7 +4,7 @@
 
 # install
 
-`composer require mecyu/swoole-pool`
+`composer require myron/swoole-pool`
 
 # phpunit test
 
