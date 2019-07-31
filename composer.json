@@ -18,8 +18,7 @@
         ]
     },
     "require": {
-        "php": ">=7.2",
-        "swoole": ">=4.4"
+        "php": ">=7.2"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.0"
